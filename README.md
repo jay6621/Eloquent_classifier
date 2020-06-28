@@ -6,7 +6,7 @@ I used a small python code to convert my sample images to csv files. One file pe
 
 # csv to load_features to get model.h
 Than I used Kaggle to use 'load_features' and genrated model.h
-why?  Coz code is not working in windows. it is generating error skbayes and upon searching I ended up here :
+why?  Coz code is not working in windows. it is generating error nomodule found for skbayes and upon searching I ended up here :
 https://github.com/AmazaspShumik/sklearn-bayes/issues/35
 
 # Arduino setup and upload
