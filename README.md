@@ -12,7 +12,7 @@ https://github.com/AmazaspShumik/sklearn-bayes/issues/35
 # Arduino setup and upload
 
 upon collecting everything I uploaded code which is present in this repo. I found serial output like This :
-
+```
 rst:0xc (SW_CPU_RESET),boot:0x16 (SPI_FAST_FLASH_BOOT)
 configsip: 0, SPIWP:0xee
 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
@@ -36,7 +36,7 @@ A14     : 0x00000000  A15     : 0x0000040d  SAR     : 0x00000018  EXCCAUSE: 0x00
 EXCVADDR: 0x00000000  LBEG    : 0x400014fd  LEND    : 0x4000150d  LCOUNT  : 0xfffffffd  
 
 Backtrace: 0x4008fedf:0x3ffaffd0 0x4008cdbf:0x3ffaffc8
-
+```
 
 # ??
 
