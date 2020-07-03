@@ -55,4 +55,4 @@ Ok I admit that some of the (or whole ?) part is out of my knowledge and I don't
 I tried greyscale with same procedure by converting and downsampling sample images to greysacle and than generating model.h 
 with arduino code setting to read a Greyscale frame. but some crashes and same zeroes as output~~
 
-ok Now my current frame is ok. but I think I got very few samples (10 of each class - LoL) to train the model so I am collecting more samples.
+ok Now my current frame is ok.But it always says No mask and also I think I got very few samples (10 of each class - LoL) to train the model so I am collecting more samples.
